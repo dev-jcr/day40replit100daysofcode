@@ -1,3 +1,4 @@
+# Dictionaries
 contacts={"name":"", "dob":"", "tel":"", "email":"", "address":""}
 inp=input("Input your name\n").strip().capitalize()
 contacts["name"]=inp
